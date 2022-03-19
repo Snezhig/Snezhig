@@ -12,7 +12,7 @@
 </div>
  
 ### :man_technologist: About Me :
-I am a Backend Developer with some Fontend skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Backend Developer with some Frontend skills<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
